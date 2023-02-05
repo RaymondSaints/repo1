@@ -12,9 +12,6 @@ function App() {
     <IternListContainer greeting={"oferta en: Queso Azul 25% Descuento"}/>
     <Main />
     <Footer />
-    
-    
-    
     </>
   );
 }
